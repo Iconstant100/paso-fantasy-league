@@ -1,15 +1,15 @@
 /*   STEP 1   */
-export const leagueID = "863634329077706752"; // your league ID
-export const leagueName = "Paso Wine Surfers"; // your league name
+export const leagueID = "863634326343004160"; // your league ID
+export const leagueName = "Paso Wine Cowboys"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = true; // true for dynasty leagues, false for redraft and keeper
 export const enableBlog = false; // requires VITE_CONTENTFUL_ACCESS_TOKEN and VITE_CONTENTFUL_SPACE environment variables
 
 /*   STEP 2   */
 export const homepageText = `
-  <p>The Paso Surfers Fantasy league is one division of the Paso Wine Fantasy Football League.</p>
+  <p>The Paso Cowboys Fantasy league is one division of the Paso Wine Fantasy Football League.</p>
   <p>This league was established to develop community amongst Paso Robles Wine Country Alliance members who share a love for football and particularly fantasy football.</p>
-  <p>In this league the stakes are clear. Two cases of wine sit at the top of the rainbow. Who will claim it this year? Better see what the Paso Cowboys Fantasy league is up to.</p>
+  <p>In this league the stakes are clear. Two cases of wine sit at the top of the rainbow. Who will claim it this year? Better see what the Paso Surfers Fantasy league is up to.</p>
 `;
 
 /*   STEP 3   */
